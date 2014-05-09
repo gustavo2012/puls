@@ -8,5 +8,22 @@
 </head>
 <body>
 
+	<header>
+		<figure id="logo">
+			<img src="img/logo.png">
+		</figure>	
+	</header>
+
+	<nav>
+	</nav>
+
+	<section>
+	</section>
+
+	<footer>
+		<p><strong>Power by Pony</strong></p>
+		<p><strong>mejorando.la 2014</strong></p>
+	</footer>
+
 </body>
 </html>
