@@ -32,8 +32,32 @@
 	</nav>
 
 	<section id="contenido">
-		<article class="">
-			
+		<article class="item">
+
+			<figure class="imagen_item">
+				<img src="img/imagen.jpg" />
+			</figure>
+
+			<h2 class="titulo_item">
+				<a href="#">
+					Título del artículo
+				</a>
+			</h2>
+
+			<div class="autor_item">
+				por <a href="#">Joana Muñoz</a>
+			</div>
+
+			<div class="datos_item">
+				<a href="" class="tag_item">pony</a>
+				<span class="fecha_item">
+					hace <strong>5</strong> min
+				</span>
+				<a href="#" class="comentarios_item">69</a>
+				<a href="#" class="tag_item">pony</a>
+			</div>	
+
+
 		</article>
 	</section>
 
