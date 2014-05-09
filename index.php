@@ -12,12 +12,29 @@
 		<figure id="logo">
 			<img src="img/logo.png">
 		</figure>	
+		<h1>
+			Puls 2014
+		</h1>
+		<figure>
+			<img src="img/avatar.png">
+		</figure>
 	</header>
 
 	<nav>
+		<ul>
+			<li><a href="#">Pyton</a></li>
+			<li><a href="#">Html5</a></li>
+			<li><a href="#">Javascript</a></li>
+			<li><a href="#">Css3</a></li>
+			<li><a href="#">Django</a></li>
+			<li id="publicar_nav"><a href="#">Publicar</a></li>
+		</ul>
 	</nav>
 
-	<section>
+	<section id="contenido">
+		<article class="">
+			
+		</article>
 	</section>
 
 	<footer>
